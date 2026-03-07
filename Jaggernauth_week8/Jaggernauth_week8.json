@@ -1,0 +1,57 @@
+{
+  "books": [
+    {
+      "_id": "b1001",
+      "bookId": 1001,
+      "title": "The Great Gatsby",
+      "genre": "Fiction",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "_id": "b1002",
+      "bookId": 1002,
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "author": "Frank Herbert"
+    },
+    {
+      "_id": "b1003",
+      "bookId": 1003,
+      "title": "Pride and Prejudice",
+      "genre": "Romance",
+      "author": "Jane Austen"
+    }
+  ],
+  "customers": [
+    {
+      "_id": "c1",
+      "customerId": "c1007",
+      "firstName": "Emily",
+      "lastName": "Carter"
+    },
+    {
+      "_id": "c2",
+      "customerId": "c1008",
+      "firstName": "Lucas",
+      "lastName": "Andrade"
+    },
+    {
+      "_id": "c3",
+      "customerId": "c1009",
+      "firstName": "Robert",
+      "lastName": "Martinez"
+    }
+  ],
+  "wishlistitems": [
+    {
+      "_id": "w1",
+      "customerId": "c1007",
+      "bookId": 1002
+    },
+    {
+      "_id": "w2",
+      "customerId": "c1008",
+      "bookId": 1001
+    }
+  ]
+}
