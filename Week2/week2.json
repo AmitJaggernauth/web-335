@@ -1,0 +1,24 @@
+{
+  "customer": {
+    "_id": "c1029",
+    "firstName": "Alicia",
+    "lastName": "Ramirez",
+    "burgers": [
+      {
+        "_id": "b501",
+        "burgerName": "Classic Double Stack",
+        "price": 8.99
+      },
+      {
+        "_id": "b502",
+        "burgerName": "Spicy Jalapeño Crunch",
+        "price": 10.49
+      },
+      {
+        "_id": "b503",
+        "burgerName": "Veggie Garden Delight",
+        "price": 9.25
+      }
+    ]
+  }
+}
